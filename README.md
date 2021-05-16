@@ -7,4 +7,4 @@ BIDOS is a truly decentralised currency, no pre-mining, no VC interest. Upon its
 2. download the auto-miner script
 3. if you are on windows, open 'command' and 'cd' to the script folder.
 4. type 'npm install' (you will see node_modules folder generating)
-5. 'node src\index.js' and follow instructions
+5. type 'node index.js' and follow instructions
