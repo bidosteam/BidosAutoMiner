@@ -1,4 +1,4 @@
-# BidosProtocol
+# BidosAutoMiner
 BIDOS Auto-Miner
 
 BIDOS is a truly decentralised currency, no pre-mining, no VC interest. Upon its fair launch, everyone can mine BIDOS for free. You do not have to put down a fortune to buy expensive mining machines. Instead, just send 0 BNB to BIDOS protocol contract.
